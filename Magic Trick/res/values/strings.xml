@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Magic Trick</string>
+	<string name="titleText">Take a few seconds to clear your mind before we begin.\n\n We will now demonstrate the machine telepathy concept.</string>
+</resources>
